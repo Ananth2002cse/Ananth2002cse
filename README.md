@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Ananth
+- 👀 I’m interested in java developer and fullstatck web developer with java
+- 🌱 I’m currently learning spring boot
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ananthmananth450@gmail.com ping me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
